@@ -11,7 +11,7 @@ const CONFIG = {
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
+    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you to 3000 <3333',
     messDesc: '💬💬 Nhắn tin cho mình nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://facebook.com/minhvu.user

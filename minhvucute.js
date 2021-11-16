@@ -12,6 +12,6 @@ const CONFIG = {
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
     mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
+    messDesc: '💬💬 Nhắn tin cho mình nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://facebook.com/minhvu.user
